@@ -2,8 +2,9 @@
 
 Projeto App lista de compras.
  Neste projeto apesar de simples, é focado em aprendermos
-Passo-a-passo as bibliotecas e os design patterns mais comuns no mundo
-Kotlin.
+Passo-a-passo as bibliotecas e os design patterns mais comuns no desenvolvimento
+Kotlin. ( Metodologias ensinadas por um instrutor de referência do universo
+Android: Philipp Lackner)
 
 Tecnologias utilizadas:
 
